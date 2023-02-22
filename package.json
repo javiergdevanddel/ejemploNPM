@@ -1,0 +1,19 @@
+{
+  "name": "ejemplonpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiergdevanddel/ejemploNPM.git"
+  },
+  "author": "Babel Group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiergdevanddel/ejemploNPM/issues"
+  },
+  "homepage": "https://github.com/javiergdevanddel/ejemploNPM#readme"
+}
